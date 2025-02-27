@@ -24,6 +24,11 @@
         nav {
             margin: 20px 0;
         }
+<nav>
+      <a href="index.html">الرئيسية</a>
+      <a href="about.html">من نحن</a>
+      <a href="contact.html">اتصل بنا</a>
+  </nav>
         nav a {
             margin: 0 15px;
             text-decoration: none;
